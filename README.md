@@ -1,4 +1,3 @@
-# Sentyment-Analysis-Gojek-Reviews-Project-NLP
 #  Analisis Sentimen Review Gojek
 
 Proyek ini merupakan analisis sentimen terhadap ulasan pengguna aplikasi **Gojek**. Tujuan dari proyek ini adalah untuk mengklasifikasikan ulasan menjadi **positif** atau **negatif** menggunakan pendekatan **TF-IDF** dan algoritma klasifikasi sederhana.
